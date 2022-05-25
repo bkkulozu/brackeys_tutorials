@@ -1,0 +1,15 @@
+C:\Users\bkklz\t15\bin\Debug\net6.0\t15.exe
+C:\Users\bkklz\t15\bin\Debug\net6.0\t15.deps.json
+C:\Users\bkklz\t15\bin\Debug\net6.0\t15.runtimeconfig.json
+C:\Users\bkklz\t15\bin\Debug\net6.0\t15.dll
+C:\Users\bkklz\t15\bin\Debug\net6.0\t15.pdb
+C:\Users\bkklz\t15\obj\Debug\net6.0\t15.csproj.AssemblyReference.cache
+C:\Users\bkklz\t15\obj\Debug\net6.0\t15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkklz\t15\obj\Debug\net6.0\t15.AssemblyInfoInputs.cache
+C:\Users\bkklz\t15\obj\Debug\net6.0\t15.AssemblyInfo.cs
+C:\Users\bkklz\t15\obj\Debug\net6.0\t15.csproj.CoreCompileInputs.cache
+C:\Users\bkklz\t15\obj\Debug\net6.0\t15.dll
+C:\Users\bkklz\t15\obj\Debug\net6.0\refint\t15.dll
+C:\Users\bkklz\t15\obj\Debug\net6.0\t15.pdb
+C:\Users\bkklz\t15\obj\Debug\net6.0\t15.genruntimeconfig.cache
+C:\Users\bkklz\t15\obj\Debug\net6.0\ref\t15.dll

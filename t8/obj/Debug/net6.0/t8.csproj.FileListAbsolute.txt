@@ -1,0 +1,15 @@
+C:\Users\bkklz\t8\obj\Debug\net6.0\t8.csproj.AssemblyReference.cache
+C:\Users\bkklz\t8\obj\Debug\net6.0\t8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkklz\t8\obj\Debug\net6.0\t8.AssemblyInfoInputs.cache
+C:\Users\bkklz\t8\obj\Debug\net6.0\t8.AssemblyInfo.cs
+C:\Users\bkklz\t8\obj\Debug\net6.0\t8.csproj.CoreCompileInputs.cache
+C:\Users\bkklz\t8\bin\Debug\net6.0\t8.exe
+C:\Users\bkklz\t8\bin\Debug\net6.0\t8.deps.json
+C:\Users\bkklz\t8\bin\Debug\net6.0\t8.runtimeconfig.json
+C:\Users\bkklz\t8\bin\Debug\net6.0\t8.dll
+C:\Users\bkklz\t8\bin\Debug\net6.0\t8.pdb
+C:\Users\bkklz\t8\obj\Debug\net6.0\t8.dll
+C:\Users\bkklz\t8\obj\Debug\net6.0\refint\t8.dll
+C:\Users\bkklz\t8\obj\Debug\net6.0\t8.pdb
+C:\Users\bkklz\t8\obj\Debug\net6.0\t8.genruntimeconfig.cache
+C:\Users\bkklz\t8\obj\Debug\net6.0\ref\t8.dll
